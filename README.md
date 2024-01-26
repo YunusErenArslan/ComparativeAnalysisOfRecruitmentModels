@@ -1,1 +1,0 @@
-<img src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1300683%2Fregular_1708x683_cover-python-and-finance-af7335a89d21d5d0fd49fce5cc9d187c.png" width="auto">
